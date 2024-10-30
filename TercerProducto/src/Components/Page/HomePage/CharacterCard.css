@@ -1,0 +1,32 @@
+  .card-img {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    padding: 16px;
+  }
+  
+  .card-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .card-status {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  
+  .card-species {
+    font-size: 14px;
+    color: #666;
+  }

@@ -1,0 +1,11 @@
+* {
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.App {
+  display: grid;
+  grid-template-rows: 1fr 4fr;
+  min-height: 100vh;  
+}

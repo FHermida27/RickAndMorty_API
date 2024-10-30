@@ -1,0 +1,28 @@
+.chars {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.character-card {
+    border: 1.5px solid #000000;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.character-card:hover {
+    transform: scale(1.05);
+}
+
+.character-card .MuiTypography-h5 {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.character-card .MuiTypography-body2 {
+    color: #000000;
+    margin-top: 0.5rem;
+}
+
