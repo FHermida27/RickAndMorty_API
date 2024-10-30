@@ -31,7 +31,7 @@ const AboutPage = () => {
         </div>
         <div id="IMG">
           <img
-            src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/327696795_520783486813533_6575749002775530346_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGGKrjZTbSnRvvv8fSt2xt7mB5nAJ0mI8uYHmcAnSYjy12SwX-cR-wCnJJ62CvTsgdAtVhEdkAO_ivOngMut_Ao&_nc_ohc=UXggGHMhQUEQ7kNvgG_5yce&_nc_zt=23&_nc_ht=scontent.fclo1-3.fna&_nc_gid=ATLlVBhYWdCs68Hz5EUYZpx&oh=00_AYCrkaTzfsmvv4zToCRre6x4_D8IeCrSfkKKYNMGfaH9_A&oe=6721B7A9"
+            src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/327696795_520783486813533_6575749002775530346_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGGKrjZTbSnRvvv8fSt2xt7mB5nAJ0mI8uYHmcAnSYjy12SwX-cR-wCnJJ62CvTsgdAtVhEdkAO_ivOngMut_Ao&_nc_ohc=hpNR9ApuknsQ7kNvgGn468d&_nc_zt=23&_nc_ht=scontent.fclo1-3.fna&_nc_gid=ARzqdlKItu21skftqJDxCf5&oh=00_AYCAdY3EywevyM03yTDJbN_6z6hpHbIi3KtB5WfQM1Yf-A&oe=67288769"
             alt="Yo"
             className="profile-img"
           />
